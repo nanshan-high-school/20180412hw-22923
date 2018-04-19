@@ -9,7 +9,7 @@ int main()
         cookie -= 10;
         cake -= 2;
     }
-    cout << cookie << "個餅乾 " << chocolate << "盒巧克力 " << cake << "個蛋糕\n";
+    cout << cookie << chocolate << cake << "\n";
     }
     return 0;
 }
